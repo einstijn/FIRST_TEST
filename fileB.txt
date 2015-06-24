@@ -1,1 +1,1 @@
-content file B (on branch? )
+content file B (on branch? ) and changed
